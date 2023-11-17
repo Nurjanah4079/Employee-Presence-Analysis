@@ -23,6 +23,8 @@ The primary data source is an open-source Excel file obtained from a REAL datase
 - Bar charts are used to visually depict the percentage of presence, work-from-home, and sick leave by day.
 - Power BI functionality such as filters, sorting, and trendlines are leveraged to improve visualization interpretation.
 
+[Link](https://app.powerbi.com/reportEmbed?reportId=8557150d-3d9d-4076-9dea-1be9675002bd&autoAuth=true&ctid=3750697d-29e2-445d-afe9-19ea7c9da124)
+
 ## Result
 
 - The dashboard provides clear insights into employee attendance, allowing stakeholders to understand overall presence percentages.
@@ -36,5 +38,6 @@ The primary data source is an open-source Excel file obtained from a REAL datase
 - Stakeholders can use the dashboard to identify potential areas for optimization in workforce management and scheduling.
 
 ## Ongoing
+
 - Sending alert by email if presence below 80%
 - Automatic data update
