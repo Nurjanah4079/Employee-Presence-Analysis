@@ -36,5 +36,5 @@ The primary data source is an open-source Excel file obtained from a REAL datase
 - Stakeholders can use the dashboard to identify potential areas for optimization in workforce management and scheduling.
 
 ## Ongoing
-- Sending alert by email if presence below  they want 80%
+- Sending alert by email if presence below 80%
 - Automatic data update
