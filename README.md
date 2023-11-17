@@ -34,3 +34,7 @@ The primary data source is an open-source Excel file obtained from a REAL datase
 - The dashboard serves as a valuable decision-making tool for stakeholders, offering quick and meaningful insights.
 - Enables the identification of anomalies or unexpected patterns in presence, work-from-home, and sick leave, allowing for proactive management.
 - Stakeholders can use the dashboard to identify potential areas for optimization in workforce management and scheduling.
+
+## Ongoing
+- Sending alert by email if presence below  they want 80%
+- Automatic data update
