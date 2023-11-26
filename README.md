@@ -6,7 +6,7 @@ Finale an HR manager faces challenges in managing and understanding employee att
 
 ## **Source Data**
 
-The primary data source is an open-source Excel file obtained from a REAL dataset [link](https://files.codebasics.io/uploads/resources/resume-project-data-analytics/Attendance%20Sheet%202022-2023_Masked.xlsx?Expires=1700505897&Signature=XH8gmUKHN-Wwz330JVmBsNwPtru3T-5SBMS0YKnLA2zBTtG9pVOL6TGJ3fEPWRdGem0zcj8hfrU9W3M4L~8iDu8-f1lOdgEJ8e0Lc53LfoYTdZJmxejP~-Slca3Kg4Uoh2N9WhqCUddvOUzejfz11s1P4558~CMWh2QlRV6Ec1IKRxGpqxs0bEcevo99J8~Xpd8JuKPv2IkACYQ8dwD9a4SYcYAHqcLkn-GDElg5D2II-5u-Jr1AghkbS7ZHoOHeQAcMLLjy5s~XOL5mjXyChBJne1muhj~JYDGeos-UbySGUeTKb3G6PbiUIoJyY2FPbzwIKytcIGescJEQtEdYWA__&Key-Pair-Id=K2RNEYYX7N2F8M) for employee attendance from a company named AtliQ. The data includes information on employee attendance, including attendance percentages, work-from-home habits, sick leave, and more.
+The primary data source is Excel file obtained from a dataset for employee attendance from a company named AtliQ. The data includes information on employee attendance, including attendance percentages, work-from-home habits, sick leave, and more.
 
 ## **Data Transformation**
 
